@@ -1,2 +1,2 @@
 # javase
-javase学习 vscode 测试
+javase学习
